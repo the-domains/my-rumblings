@@ -1,4 +1,3 @@
-layout_spectrum: 0.47250246186740696
 typography_spectrum: 0.2355682156048715
 color:
   brandStrength: 0.37029640818946064
@@ -11,5 +10,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.47250246186740696
 name: My Rumblings
+title: Food is essential
 description: I think ...
